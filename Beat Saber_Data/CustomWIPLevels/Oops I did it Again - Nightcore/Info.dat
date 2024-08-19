@@ -12,7 +12,7 @@
   "_shufflePeriod" : 0.5,
   "_coverImageFilename" : "cover.png",
   "_songFilename" : "Oops I Did it Again - Nightcore.ogg",
-  "_environmentName" : "DefaultEnvironment",
+  "_environmentName" : "TimbalandEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
   ],
@@ -35,13 +35,15 @@
           "_difficultyRank" : 9,
           "_beatmapFilename" : "ExpertPlusStandard.dat",
           "_noteJumpMovementSpeed" : 20,
-          "_noteJumpStartBeatOffset" : -0.651,
+          "_noteJumpStartBeatOffset" : -0.689,
           "_beatmapColorSchemeIdx" : 0,
           "_environmentNameIdx" : 0,
           "_customData" : {
             "_suggestions" : [
               "Chroma"
-            ]
+            ],
+            "_envColorLeft" : {"r":0.648,"g":0,"b":0},
+            "_envColorRight" : {"r":0.467,"g":0.408,"b":0.522}
           }
         }
       ]
