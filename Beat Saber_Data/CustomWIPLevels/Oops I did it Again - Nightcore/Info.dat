@@ -43,7 +43,8 @@
               "Chroma"
             ],
             "_envColorLeft" : {"r":0.648,"g":0,"b":0},
-            "_envColorRight" : {"r":0.467,"g":0.408,"b":0.522}
+            "_envColorRight" : {"r":0.467,"g":0.408,"b":0.522},
+            "_difficultyLabel" : "I Played With Your Heart"
           }
         }
       ]
